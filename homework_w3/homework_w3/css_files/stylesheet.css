@@ -1,0 +1,46 @@
+
+/*BASE FONTS*/
+
+
+/*******************
+BASE SET UP
+*******************/
+
+  box-sizing: border-box;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+} 
+
+.container {
+  margin: 0 auto;
+  width: 95%;}
+
+
+/*******************
+FONT SET UP
+*******************/
+
+body{
+	font-family:'Source Sans Pro', sans-serif;
+}
+
+a{
+font-family:'Source Sans Pro', sans-serif;
+font
+}
+
+/*******************
+GENERAL SET UP
+*******************/
+background-image
+/*******************
+HEADER SET UP
+*******************/
